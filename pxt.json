@@ -1,0 +1,21 @@
+{
+    "name": "command-processor",
+    "version": "0.1.0",
+    "description": "Command processor extension",
+    "license": "Apache",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
